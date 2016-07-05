@@ -1,3 +1,16 @@
+# ~ Note ~
+This is a fork project used for personal colors personalization. 
+Here you can find the [Original] project created and developed by [Ethan Schoonover][Solarized].
+
+## Changes
+
+### Dark Theme
+- Background [id:0]: from [#073642] to [#052730]
+- Color [id:14]: from [#052730] to [#cad62a]
+
+### Light Theme
+- No changes
+
 # Solarized Color Scheme for Windows Console2
 
 Original [Solarized] Color Scheme created and developed by [Ethan Schoonover][Solarized]
@@ -18,3 +31,7 @@ Its free, as in speech and beer. If it breaks, feel free to keep both pieces.
 
 [Solarized]:         http://ethanschoonover.com/solarized        "Solarized Homepage: Precision colors for machines and people"
 [Console2]:          http://sourceforge.net/projects/console     "Console2 Project Homeage"
+[Original]:          https://github.com/stevenharman/console2-solarized "Console2-Solarized"
+[#073642]:           http://www.color-hex.com/color/073642
+[#052730]:           http://www.color-hex.com/color/052730
+[#cad62a]:           http://www.color-hex.com/color/cad62a
